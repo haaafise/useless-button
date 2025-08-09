@@ -63,4 +63,4 @@ No servers. No APIs. No purpose.
 
 #### 📸 Screenshots
 
-![Main Interface](link-to-screenshot1.png)
+![Main Interface](https://drive.google.com/file/d/1VF9PZxwgG6C4UKv7ZSa0NpLOI_lj4pRg/view?pli=1)
